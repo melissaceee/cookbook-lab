@@ -59,9 +59,3 @@ mongoose.connection.on('connected', () => {
     console.log(`The express app is ready on port ${port}!`);
   });
 
-
-
-
-app.listen(port, () => {
-    console.log(`The express app is ready on port ${port}!`);
-  });
