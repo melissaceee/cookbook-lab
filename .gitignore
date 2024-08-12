@@ -1,1 +1,2 @@
-MONGODB_URI=mongodb+srv://chengmelissa:VZC42p0BVHHfaMgT@cluster0.9w49fjh.mongodb.net/cookbook?retryWrites=true&w=majority&appName=Cluster0
+node_modules
+.env
